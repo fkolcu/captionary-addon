@@ -12,8 +12,8 @@
   <strong>Latest Version:</strong> v1.0.0
     <br><br>
   Available on:<br>
-  🦊 Firefox Add-on [Soon] <br>
-  🌐 Chrome Web Store [Soon]
+  🦊 <a href="https://addons.mozilla.org/en-US/firefox/addon/captionary/">Firefox Add-on</a><br>
+  🌐 <a href="https://chromewebstore.google.com/detail/captionary/jlmpmfjbmgfijlhecknnhjhifaafehok">Chrome Webstore</a>
 </p>
 
 ---
@@ -32,4 +32,4 @@ interrupting the experience.
 - [License](./License.md)
 
 ---
- 🎉 Issues, and ideas are welcome!
+🎉 Issues, and ideas are welcome!
